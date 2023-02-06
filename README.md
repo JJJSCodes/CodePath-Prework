@@ -6,6 +6,7 @@ This app takes in user input and introduces the user.
 ### App Walk-though
 
 <img src="https://user-images.githubusercontent.com/49411882/216862046-f6d28111-56ea-4143-8fb1-95c2a553f542.gif" width=200>
+
 ### Required Features
 
 - [x] 1. App displays an image of a school's logo
